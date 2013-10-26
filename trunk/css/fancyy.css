@@ -27,6 +27,7 @@
         box-shadow: 0 0 10px 0.1px #242424;
         z-index:1002;
         overflow: hidden;
+	text-align: left;
     }
 .tutupp{
 	position: absolute; right:25px; top:23px
