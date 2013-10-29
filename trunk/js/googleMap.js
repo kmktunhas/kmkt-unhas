@@ -1,5 +1,6 @@
 $(window).load(function(){
- var mapUrl = "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed",
+ var mapUrl = "http://maps.google.com/maps?daddr=-5.134944,119.503923&hl=id&sll=-5.134907,119.503875&sspn=0.003339,0.004887&t=h&doflg=ptk&mra=mift&mrsp=1&sz=18&z=18",
+
  		onLoadWebSite = false,
    		googleMapHolder = $(".google_map"),
         backgroundColor = googleMapHolder.css("backgroundColor"),
