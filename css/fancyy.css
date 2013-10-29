@@ -1,3 +1,35 @@
+.database{
+	border: 1px solid #ffc13f;
+    border-radius:5px;
+	display: inline; 
+	float: left; 
+	height: 236px; 
+	width: 114px;
+	line-height: 18px; 
+	margin: 12px; 
+	background: url(http://kmkosipil.googlecode.com/svn/trunk/database/img/bg.profilee.png)
+
+}
+.dbimg{
+	margin: 3px;
+	height: 142px;  
+	width: 107px;
+    border-radius:5px;
+}
+.dbfont{
+	margin: 0px 7px 7px; 
+	padding: 10px 0px 0px; 
+	text-align: center;
+	color: white; 
+	font-family: Georgia, Times New Roman, serif;
+}
+.dbfont a{
+	color: #ffc13f; 
+	text-decoration: none;
+}
+.dbfont a:hover {
+	color: white;
+}
 .bg_hitam {
         display: none;
         position: absolute;
