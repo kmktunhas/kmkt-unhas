@@ -52,7 +52,7 @@
         top: 20%;
         left: 25%;
         width: 47%;
-        height: 43%;
+        height: 48%;
         padding: 16px;
         border: 3px solid #ffc13f;
         background-color: white;
@@ -63,7 +63,7 @@
 		text-align:left;
     }
 .tutupp{
-	position: absolute; right:25px; top:23px
+	position: absolute; right:30px; top:23px
 }
 .headerfancy{
 	background-image: url(../img/bg.png); 
@@ -72,7 +72,7 @@
 	font-size: 12px; 
 	height: 40px; 
 	margin: 0px 0px 18px;
-	width: 645px;
+	width: 640px;
 }
 .judull{
 	color: #ffc13f; 
