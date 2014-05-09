@@ -1,5 +1,5 @@
-// var numpost = 7,
-//     numcomment = 7,
+// var numpost = 5,
+//     numcomment = 5,
 //     cmtext = "Komentar",
 //     cmsumm = 100,
 //     pblank = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC";
