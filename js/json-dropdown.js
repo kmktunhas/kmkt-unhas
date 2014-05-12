@@ -2,7 +2,7 @@
 //     numcomment = 5,
 //     cmtext = "Komentar",
 //     cmsumm = 100,
-//     pblank = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC";
+//     pblank = "http://kmkt-unhas.googlecode.com/svn/trunk/images/logo.png";
 
 // RECENT POSTS & RECENT COMMENTS 4 DROP DOWN MENU
 // http://gplus.to/tovic
